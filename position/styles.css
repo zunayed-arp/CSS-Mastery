@@ -1,0 +1,20 @@
+.parent {
+  background-color: blueviolet;
+  height: 200px;
+  font-size: 40px;
+}
+
+.child-one {
+    position: relative;
+    left: 10px;
+  background-color: yellowgreen;
+  font-size: 20px;
+}
+.child-two {
+  background-color: hotpink;
+  font-size: 25px;
+}
+.child-three {
+  background-color: forestgreen;
+  font-size: 29px;
+}
